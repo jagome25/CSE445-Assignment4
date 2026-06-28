@@ -76,10 +76,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.7">
+  <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
-    <Address>
+    <Address NearestAirport="Bangor">
       <Number>20</Number>
       <Street>McFarland Hill Drive</Street>
       <City>Bar Harbor</City>
@@ -88,10 +88,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.6">
+  <NationalPark>
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
-    <Address>
+    <Address NearestAirport="Seattle">
       <Number>300</Number>
       <Street>East Park Avenue</Street>
       <City>Port Angeles</City>
@@ -124,10 +124,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
+  <NationalPark>
     <Name>Grand Teton</Name>
     <Phone>307-739-3300</Phone>
-    <Address>
+    <Address NearestAirport="Jackson Hole">
       <Number>103</Number>
       <Street>HQ Loop Road</Street>
       <City>Moose</City>
